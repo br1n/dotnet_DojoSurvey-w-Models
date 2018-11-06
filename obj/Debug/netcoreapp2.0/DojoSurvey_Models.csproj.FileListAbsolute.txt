@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/bin/Debug/netcoreapp2.0/DojoSurvey_Models.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/bin/Debug/netcoreapp2.0/DojoSurvey_Models.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/bin/Debug/netcoreapp2.0/DojoSurvey_Models.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/bin/Debug/netcoreapp2.0/DojoSurvey_Models.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/bin/Debug/netcoreapp2.0/DojoSurvey_Models.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/obj/Debug/netcoreapp2.0/DojoSurvey_Models.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/obj/Debug/netcoreapp2.0/DojoSurvey_Models.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/obj/Debug/netcoreapp2.0/DojoSurvey_Models.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/obj/Debug/netcoreapp2.0/DojoSurvey_Models.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_4/DojoSurvey_Models/obj/Debug/netcoreapp2.0/DojoSurvey_Models.pdb

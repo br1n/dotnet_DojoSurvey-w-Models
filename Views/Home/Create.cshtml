@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" 
+    <link rel="stylesheet" type="text/css" 
+     href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link rel="stylesheet" type="text/css" 
+     href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+    <title>Result</title>
+</head>
+<body>
+    @using DojoSurvey_Models
+    @model User
+    <div class="container">
+        <div class="info">
+            <h1>Submitted Info</h1>
+            <hr>
+            <p>Name: @Model.Name </p>
+            <p>Location: @Model.Location </p>
+            <p>Favorite Language: @Model.Language </p>
+            <p>Comments: "@Model.Comment"</p>
+            <a href="/" class="button">Go Back</a>
+        </div>
+    </div>
+</body>
+</html>
